@@ -1,0 +1,14 @@
+GIT:
+  # 格式为:
+  # 大写的项目名称:
+  #  URL: 项目的 html url
+  #  OPERATION: 执行的动作
+  # 如:
+  # TRAININFO:
+  #  URL: https://github.com/flyer103/traininfo
+  #  OPERATION: 'echo this is just a test'
+
+LOCAL:
+  HOST: localhost # 本地 server 的 host，默认为 localhost
+  PORT: 8001 # 本地 server 的 port，默认为 9030
+  DEBUG: 1 # 是否打开 debug 模式，默认不打开，1 为打开
